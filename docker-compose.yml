@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  web:
+    container_name: matriz
+    restart: always
+    build: .
+    ports:
+       - "8080:8080"

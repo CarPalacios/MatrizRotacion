@@ -1,0 +1,7 @@
+matriz:
+  codigo:
+    idf0: 0
+    idt1: -1
+  mensaje:
+    idf0: Operación Exitosa, se realizó la rotación correctamente.
+    idt1: Error, favor de verificar los datos
